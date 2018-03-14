@@ -5,5 +5,5 @@ class Dog
   def name
     @name 
   end
-  def breed=(breed_name)
+  def breed=(breed_type)
 end 
